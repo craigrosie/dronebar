@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # <bitbar.title>Drone Status</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Craig Rosie</bitbar.author>
 # <bitbar.author.github>craigrosie</bitbar.author.github>
-# <bitbar.desc>Checks the status of the builds from Drone CI</bitbar.desc>
+# <bitbar.desc>Checks the status of builds from Drone CI</bitbar.desc>
 # <bitbar.dependencies>awk,bash,curl,jq</bitbar.dependencies>
 
 # Needed for jq, curl, awk. If you install jq somewhere else you have to add it here as well
